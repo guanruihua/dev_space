@@ -14,6 +14,9 @@ importers:
       0hook:
         specifier: workspace:^1.4.1
         version: link:packages/0hook
+      '@types/node':
+        specifier: ^20.11.30
+        version: 20.11.30
       abandonjs:
         specifier: workspace:^
         version: link:packages/abandonjs
@@ -600,7 +603,7 @@ importers:
         specifier: ^15.0.1
         version: 15.2.3(rollup@2.79.1)
       '@types/node':
-        specifier: ^18.11.2
+        specifier: ^18.19.23
         version: 18.19.23
       '@typescript-eslint/eslint-plugin':
         specifier: ^5.40.1
@@ -719,7 +722,7 @@ importers:
         version: link:../abandonjs
       asura-eye:
         specifier: ^0.8.0
-        version: link:../asura-eye
+        version: 0.8.0
       axios:
         specifier: ^1.5.1
         version: 1.6.7(debug@4.3.4)
@@ -879,7 +882,7 @@ importers:
         version: link:../abandonjs
       asura-eye:
         specifier: ^0.8.0
-        version: link:../asura-eye
+        version: 0.8.0
       axios:
         specifier: ^1.5.1
         version: 1.6.7(debug@4.3.4)
@@ -4302,6 +4305,12 @@ packages:
     dependencies:
       undici-types: 5.26.5
 
+  /@types/node@20.11.30:
+    resolution: {integrity: sha512-dHM6ZxwlmuZaRmUPfv1p+KrdD1Dci04FbdEm/9wEMouFqxYoFl5aMkt0VMAUtYRQDyYvD41WJLukhq/ha3YuTw==}
+    dependencies:
+      undici-types: 5.26.5
+    dev: false
+
   /@types/node@20.5.1:
     resolution: {integrity: sha512-4tT2UrL5LBqDwoed9wZ6N3umC4Yhz3W3FloMmiiG4JwmUJWpie0c7lcnUNd4gtMKuDEO4wRVS8B6Xa0uMRsMKg==}
     dev: true
@@ -5728,6 +5737,11 @@ packages:
 
   /asura-eye@0.7.0:
     resolution: {integrity: sha512-n5WYnvYXEulpdahQXdJPlrIfmAC1p7DGgZrTJBNxEqLIMtkNI8Q8qhOlNql1+v0T3fP1jNbfMnyuNd0EhAS8GA==}
+    engines: {node: '>=16'}
+    dev: true
+
+  /asura-eye@0.8.0:
+    resolution: {integrity: sha512-Gs2nttweNUlcIeq9HROy7yDhNGw+iGmeFz1hWe8jIKoftI3Howp6xMnoilnVMfoI62UWw51it2WFeFE0irslBg==}
     engines: {node: '>=16'}
     dev: true
 

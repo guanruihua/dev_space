@@ -28,6 +28,7 @@
   "dependencies": {
     "0file-system": "workspace:^",
     "0hook": "workspace:^1.4.1",
+    "@types/node": "^20.11.30",
     "abandonjs": "workspace:^",
     "asura-eye": "workspace:^",
     "rollup-plugin-eslint": "^7.0.0",
