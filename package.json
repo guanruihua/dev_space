@@ -6,6 +6,7 @@
   "private": "true",
   "scripts": {
     "abandonjs:test": "pnpm run --filter abandonjs test",
+    "test:test1": "pnpm run --filter test start",
     "release": "run-s build releaseOnly",
     "releaseOnly": "changeset publish",
     "test:abandonjs": "pnpm -C packages/"
@@ -19,6 +20,7 @@
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.1",
+    "@types/jest": "^29.5.12",
     "chalk": "^5.3.0",
     "minimist": "^1.2.8",
     "npm-run-all": "^4.1.5",

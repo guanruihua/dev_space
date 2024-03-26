@@ -2,6 +2,8 @@
 test/
 lib/
 src/*/__test__
+packages/*/config/
+packages/0hook/src/*/__test__/
 src/__test__
 md.ts
 commitlint*
