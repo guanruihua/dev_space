@@ -1,11 +1,9 @@
 {
+  "extends": ["./packages/abandonjs/tsconfig.json"],
   "compilerOptions": {
     "outDir": "/lib",
     "target": "ESNext",
-    "lib": [
-      "DOM",
-      "ESNext"
-    ],
+    "lib": ["DOM", "ESNext"],
     "emitDecoratorMetadata": true,
     "declaration": true,
     "declarationMap": true,
@@ -14,13 +12,11 @@
     "strictNullChecks": true,
     "alwaysStrict": false,
     "moduleResolution": "node",
-    "experimentalDecorators":true,
+    "experimentalDecorators": true,
     "baseUrl": "./src",
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true
   },
   "include": ["./**/*/*.ts", "*.d.ts"],
-  "exclude": [
-    "src/__test__/**/*"
-  ]
+  "exclude": ["src/__test__/**/*"]
 }
