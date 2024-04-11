@@ -1,5 +1,4 @@
 {
-  "extends": ["./packages/abandonjs/tsconfig.json"],
   "compilerOptions": {
     "outDir": "/lib",
     "target": "ESNext",

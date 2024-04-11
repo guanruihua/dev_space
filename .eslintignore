@@ -10,3 +10,6 @@ commitlint*
 jest.config.js
 coverage/
 docs.js
+*.config.js
+*.config.cjs
+webpack*
