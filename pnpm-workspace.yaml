@@ -1,6 +1,8 @@
 packages:  
   - 'packages/*'
   - 'plugin/*'
+  - 'hook/*'
+  - 'ui/*'
   # exclude packages that are inside test directories
   - '!docs/*'
   - '!**/test/**'

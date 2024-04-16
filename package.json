@@ -5,6 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
+    "edge:start": "pnpm run --filter edge-plugin start",
     "aurad:build": "pnpm run --filter aurad build",
     "aurad:start": "pnpm run --filter aurad start",
     "0hook:build": "pnpm run --filter 0hook build",
