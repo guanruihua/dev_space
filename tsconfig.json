@@ -16,6 +16,6 @@
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true
   },
-  "include": ["./**/*/*.ts", "*.d.ts"],
+  "include": ["./**/*/*.ts", "*.d.ts", "**/*.tsx", "**/*.ts", "**/*.d.ts"],
   "exclude": ["src/__test__/**/*"]
 }

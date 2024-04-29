@@ -5,6 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
+    "0math:start": "pnpm run --filter 0math test",
     "edge:start": "pnpm run --filter edge-plugin start",
     "aurad:build": "pnpm run --filter aurad build",
     "aurad:start": "pnpm run --filter aurad start",
@@ -12,7 +13,7 @@
     "0hook:start": "pnpm run --filter 0hook start",
     "abandonjs:build": "pnpm run --filter abandonjs build",
     "abandonjs:start": "pnpm run --filter abandonjs test",
-    "test:test1": "pnpm run --filter test start",
+    "test": "pnpm run --filter test start",
     "release": "run-s build releaseOnly",
     "releaseOnly": "changeset publish",
     "test:abandonjs": "pnpm -C packages/"
