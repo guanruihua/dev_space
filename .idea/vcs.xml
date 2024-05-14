@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/abandonjs.github.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/guannruihua" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/guanruihua.github.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/ruihuag-demo.github.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/ruihuag-note.github.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hook/0hook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hook/0hookv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/0file-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/abandonjs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/asura-eye" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ui/aurad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ui/auradv" vcs="Git" />
+  </component>
+</project>
