@@ -4,6 +4,7 @@ lib/
 src/*/__test__
 packages/*/config/
 */*/background/
+*/*/dist/
 */*/src/*/__test__/
 src/__test__
 md.ts

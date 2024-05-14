@@ -10,8 +10,14 @@
     <mapping directory="$PROJECT_DIR$/hook/0hook" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/hook/0hookv" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/packages/0file-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/0math" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/0type" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/packages/abandonjs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/packages/asura-eye" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/harpe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/mock-record" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/rh-color" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugin/browser-plugin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ui/aurad" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ui/auradv" vcs="Git" />
   </component>
