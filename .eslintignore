@@ -15,3 +15,5 @@ docs.js
 *.config.js
 *.config.cjs
 webpack*
+node_modules
+test/
