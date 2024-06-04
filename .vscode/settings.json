@@ -4,9 +4,13 @@
     "aurad",
     "commitlint",
     "CSDN",
+    "Echarts",
+    "estree",
+    "formatjs",
     "harpe",
     "loglevel",
     "Newtab",
     "stylelint"
-  ]
+  ],
+  "svg.preview.background": "editor"
 }
