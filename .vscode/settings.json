@@ -6,10 +6,15 @@
     "CSDN",
     "Echarts",
     "estree",
+    "fastspin",
     "formatjs",
+    "fullhash",
     "harpe",
     "loglevel",
+    "matchs",
     "Newtab",
+    "popconfirm",
+    "slowspin",
     "stylelint"
   ],
   "svg.preview.background": "editor"
