@@ -1,6 +1,6 @@
 node_modules
 packages/
-plugin/
+# plugin/
 test/
 server/
 
